@@ -28,7 +28,7 @@ print(RH+"""
                                      
        """+R+"""=[ """+Y+"""Evil Win                   """+R+""" ]
 """+R+"""+ -- --=[ """+R+"""@i_am_unbekannt"""+R+"""             ]
-"""+R+"""+ -- --=[ """+W+"""flowcode.com/page/unbekannt"""+R+""" ]
+"""+R+"""+ -- --=[ """+W+"""i-am-unbekannt.github.io"""+R+""" ]
 """+W)
 
 try:
@@ -94,7 +94,7 @@ print(RH+"""
                                      
        """+R+"""=[ """+Y+"""Evil Win                   """+R+""" ]
 """+R+"""+ -- --=[ """+R+"""@i_am_unbekannt"""+R+"""             ]
-"""+R+"""+ -- --=[ """+W+"""flowcode.com/page/unbekannt"""+R+""" ]
+"""+R+"""+ -- --=[ """+W+"""i-am-unbekannt.github.io"""+R+""" ]
 """+W)
 print(B+"[*]"+W+f" {client_address[0]}:{client_address[1]} - Evil Win session 1 closed.")
 sys.exit()
