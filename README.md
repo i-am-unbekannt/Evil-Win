@@ -16,16 +16,16 @@
 * Linux:
   * `sudo apt update -y`
   * `sudo apt install python3 python3-pip git -y`
-  * `git clone https://github.com/i-am-unbekannt/Tools`
-  * `cd Tools/Evil-Win/`
+  * `git clone https://github.com/i-am-unbekannt/Evil-Win`
+  * `cd Evil-Win/`
   * `pip3 install -r requirements.txt`
   * `python3 Evil-Win.py`
 
 * Termux:
   * `pkg update -y`
   * `pkg install python3 python3-pip git -y`
-  * `git clone https://github.com/i-am-unbekannt/Tools`
-  * `cd Tools/Evil-Win/`
+  * `git clone https://github.com/i-am-unbekannt/Evil-Win`
+  * `cd Evil-Win/`
   * `pip3 install -r requirements.txt`
   * `python3 Evil-Win.py`
 
