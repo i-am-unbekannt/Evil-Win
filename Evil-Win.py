@@ -28,7 +28,7 @@ print(RH+"""
                                      
        """+R+"""=[ """+Y+"""Evil Win                   """+R+""" ]
 """+R+"""+ -- --=[ """+R+"""@i_am_unbekannt"""+R+"""             ]
-"""+R+"""+ -- --=[ """+W+"""i-am-unbekannt.github.io"""+R+""" ]
+"""+R+"""+ -- --=[ """+W+"""i-am-unbekannt.github.io"""+R+"""    ]
 """+W)
 
 try:
