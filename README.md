@@ -3,12 +3,12 @@
 
 
 <p align="center">
-  <img src="https://i.ibb.co/sH4XyfS/tranc.png">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/Evil-Win/main/img1.png">
 </p>
 
 ### Main Window
 <p align="center">
-  <img src="https://i.ibb.co/87Pp27s/tranc-Kopie.png">
+  <img src="https://raw.githubusercontent.com/i-am-unbekannt/Evil-Win/main/img2.png">
 </p>
 
 
